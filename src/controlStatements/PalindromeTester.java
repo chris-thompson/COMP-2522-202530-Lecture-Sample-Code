@@ -12,9 +12,7 @@ import java.util.Scanner;
  */
 public final class PalindromeTester {
 
-    private PalindromeTester() {
-
-    }
+    private PalindromeTester() { }
 
     /**
      * Tests Strings to see if they are palindromes.

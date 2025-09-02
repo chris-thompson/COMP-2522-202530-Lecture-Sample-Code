@@ -16,9 +16,7 @@ public final class GradeReport {
      */
     public static final int BIN_SIZE = 10;
 
-    private GradeReport() {
-
-    }
+    private GradeReport() { }
 
     /**
      * Cues the user to enter a grade and prints comments accordingly.

@@ -13,9 +13,7 @@ import java.util.Scanner;
  */
 public final class MinOfThree {
 
-    private MinOfThree() {
-
-    }
+    private MinOfThree() { }
 
     /**
      * Reads three integers from the user and determines the smallest

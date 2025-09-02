@@ -11,14 +11,13 @@ import java.util.Scanner;
  * @version 2025
  */
 public final class Guessing {
+
     /**
      * Number in guessing range.
      */
     private static final int MAX = 10;
 
-    private Guessing() {
-
-    }
+    private Guessing() { }
 
     /**
      * Plays a simple guessing game with the user.

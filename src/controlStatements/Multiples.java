@@ -11,9 +11,7 @@ import java.util.Scanner;
  */
 public final class Multiples {
 
-    private Multiples() {
-
-    }
+    private Multiples() { }
 
     /**
      * Prints multiples of a user-specified number up to a user-specified limit.

@@ -11,9 +11,7 @@ import java.util.Scanner;
  */
 public final class ReverseNumber {
 
-    private ReverseNumber() {
-
-    }
+    private ReverseNumber() { }
 
     /**
      * Reverses the digits of an integer mathematically.

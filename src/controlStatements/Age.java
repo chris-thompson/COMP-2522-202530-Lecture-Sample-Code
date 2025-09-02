@@ -12,13 +12,12 @@ import java.util.Scanner;
 public final class Age {
 
     /**
-     * Age of majority.  Person is minor if age < MINOR
+     * Age of majority.  Person is minor if age < AGE_OF_MAJORITY
      */
     public static final int AGE_OF_MAJORITY = 19;
 
 
-    private Age() {
-    }
+    private Age() { }
 
     /**
      * Reads the user's age and prints comments accordingly.

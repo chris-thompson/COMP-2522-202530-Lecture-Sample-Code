@@ -9,9 +9,7 @@ package controlStatements;
  */
 public final class Stars {
 
-    private Stars() {
-
-    }
+    private Stars() { }
 
     /**
      * Prints a triangle shape using asterisk (star) characters.
